@@ -11,7 +11,7 @@
 custom_guidelines:
   general:
     - name: "Basic Coding Standards"
-      path: "basic_coding_standards"
+      path: "./basic_coding_standards.md"
   per_language:
     python:
       name: ""
